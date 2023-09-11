@@ -1,0 +1,12 @@
+header{
+    color: rgb(42, 78, 125);
+    border: 5px solid;
+    border-radius: 50px;
+}
+p{
+    color: rgb(25, 142, 101);
+}
+img{
+    border-radius:  100000px;
+    float: left;
+}

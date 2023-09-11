@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+#header1{
+    background-color: rgb(188, 152, 152);
+    color: antiquewhite;
+}
+#line1{
+    color: blue;
+}
+p{
+    color: rgb(202, 120, 120);
+}
+body{
+    border: 4px;
+}
+img{
+    height: 10%;
+}
+#line4{
+    color: rgb(8, 107, 107);
+    border: 3px solid;
+}
+footer{
+    background-color: rgb(153, 153, 165);
+}
+me1{
+    color: rgb(214, 15, 15);
+}
+odd{
+    color: rgb(0, 0, 0);
+}
+
+#header2{
+    color: rgb(42, 78, 125);
+    border: 5px solid;
+    border-radius: 50px;
+}
+p{
+    color: rgb(25, 142, 101);
+}
+img{
+    height: 100px;
+    border-radius:  100000px;
+    float: left;
+}
+.odd {
+    background-color: peachpuff;
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    color: rgb(34, 43, 51);
+}
